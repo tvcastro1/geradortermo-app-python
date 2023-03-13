@@ -43,9 +43,9 @@ def retorna_dados_funcionario(nome):
 
 client = api.OAuthClient(
     'tablets-novo',
-    '91zyXWNRsI0lXjpBZIaBknYUlNWlZSKVSBc7LG9thJrQY3ve7MVtxWptgMdM1Xje',
-    'vieira.thiago@parceiro.mrv.com.br',
-    'N3R@tkvP',
+    'SECRET',
+    'USERr',
+    'PASSWORD',
 )
 
 
